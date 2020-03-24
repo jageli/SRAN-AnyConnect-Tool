@@ -1,0 +1,118 @@
+login success to 192.168.3.10
+
+# ls -l
+total 385168
+-rw-------. 1 root root      1260 Jan  9 06:58 anaconda-ks.cfg
+drwxr-xr-x. 4 root root        43 Mar  3 21:00 lean_Django
+drwxr-xr-x. 9 root root       165 Jan 17 14:49 pycharm-community-2019.3.3
+-rw-r--r--. 1 root root 391606138 Jan 17 14:48 pycharm-community-2019.3.3.tar.gz
+drwxr-xr-x. 5 root root        71 Feb 20 11:57 python
+drwxr-xr-x. 5 1000 1000      4096 Feb 19 09:46 sqlite-autoconf-3270200
+-rw-r--r--. 1 root root   2797531 Apr 10  2019 sqlite-autoconf-3270200.tar.gz
+drwxr-xr-x. 2 root root       147 Mar 17 19:21 test
+drwxr-xr-x. 2 root root        62 Feb 13 19:47 webtest
+
+login success to 192.168.3.10
+
+# ls -l
+total 385168
+-rw-------. 1 root root      1260 Jan  9 06:58 anaconda-ks.cfg
+drwxr-xr-x. 4 root root        43 Mar  3 21:00 lean_Django
+drwxr-xr-x. 9 root root       165 Jan 17 14:49 pycharm-community-2019.3.3
+-rw-r--r--. 1 root root 391606138 Jan 17 14:48 pycharm-community-2019.3.3.tar.gz
+drwxr-xr-x. 5 root root        71 Feb 20 11:57 python
+drwxr-xr-x. 5 1000 1000      4096 Feb 19 09:46 sqlite-autoconf-3270200
+-rw-r--r--. 1 root root   2797531 Apr 10  2019 sqlite-autoconf-3270200.tar.gz
+drwxr-xr-x. 2 root root       147 Mar 17 19:21 test
+drwxr-xr-x. 2 root root        62 Feb 13 19:47 webtest
+
+login success to 192.168.3.10
+
+# ping www.baidu.com -c 4
+PING www.a.shifen.com (14.215.177.39) 56(84) bytes of data.
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=1 ttl=55 time=35.3 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=2 ttl=55 time=33.2 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=3 ttl=55 time=33.8 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=4 ttl=55 time=33.9 ms
+
+--- www.a.shifen.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 33.256/34.106/35.325/0.789 ms
+
+login success to 192.168.3.10
+
+# ping www.baidu.com -c 4
+PING www.a.shifen.com (14.215.177.39) 56(84) bytes of data.
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=1 ttl=55 time=36.3 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=2 ttl=55 time=34.0 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=3 ttl=55 time=34.5 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=4 ttl=55 time=33.4 ms
+
+--- www.a.shifen.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+rtt min/avg/max/mdev = 33.416/34.592/36.355/1.101 ms
+
+login success to 192.168.3.10
+
+# ping www.baidu.com -c 4
+PING www.a.shifen.com (14.215.177.39) 56(84) bytes of data.
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=1 ttl=55 time=32.4 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=2 ttl=55 time=33.9 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=3 ttl=55 time=34.7 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=4 ttl=55 time=32.9 ms
+
+--- www.a.shifen.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+rtt min/avg/max/mdev = 32.402/33.502/34.717/0.898 ms
+
+# zzzz
+bash: zzzz: command not found
+
+login success to 192.168.3.10
+
+# ping www.baidu.com -c 4
+PING www.a.shifen.com (14.215.177.39) 56(84) bytes of data.
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=1 ttl=55 time=34.5 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=2 ttl=55 time=31.1 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=3 ttl=55 time=34.3 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=4 ttl=55 time=37.4 ms
+
+--- www.a.shifen.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+rtt min/avg/max/mdev = 31.135/34.366/37.454/2.240 ms
+
+# zzzz
+bash: zzzz: command not found
+
+login success to 192.168.3.10
+
+# ping www.baidu.com -c 4
+PING www.a.shifen.com (14.215.177.39) 56(84) bytes of data.
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=1 ttl=55 time=32.8 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=2 ttl=55 time=33.7 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=3 ttl=55 time=32.6 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=4 ttl=55 time=32.7 ms
+
+--- www.a.shifen.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 32.633/33.013/33.767/0.496 ms
+
+# zzzz
+bash: zzzz: command not found
+
+login success to 192.168.3.10
+
+# ping www.baidu.com -c 4
+PING www.a.shifen.com (14.215.177.39) 56(84) bytes of data.
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=1 ttl=55 time=33.0 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=2 ttl=55 time=33.3 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=3 ttl=55 time=33.0 ms
+64 bytes from 14.215.177.39 (14.215.177.39): icmp_seq=4 ttl=55 time=33.1 ms
+
+--- www.a.shifen.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+rtt min/avg/max/mdev = 33.033/33.152/33.324/0.247 ms
+
+# zzzz
+bash: zzzz: command not found
+
