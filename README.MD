@@ -646,31 +646,31 @@ target="README.files/props002.xml">
 normal'><span style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:
 107%'>SRAN AnyConnect</span></b><b style='mso-bidi-font-weight:normal'><span
 lang=ZH-CN style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%;
-font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>����ʹ��˵��</span></b><b style='mso-bidi-font-weight:normal'><span
+minor-latin'>工具使用说明</span></b><b style='mso-bidi-font-weight:normal'><span
 style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></o:p></span></b></p>
 
 
  <p class=MsoTocHeading>Table of Contents<span style='font-size:11.0pt;
  line-height:107%;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
- mso-fareast-font-family:����;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+ mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
  mso-bidi-theme-font:minor-bidi;color:windowtext;mso-fareast-language:ZH-CN'><w:sdtPr></w:sdtPr></span></p>
  <p class=MsoToc2 style='tab-stops:44.0pt right dotted 467.5pt'><!--[if supportFields]><span
  style='mso-element:field-begin'></span><span
  style='mso-spacerun:yes'>&nbsp;</span>TOC \o &quot;1-3&quot; \h \z \u <span
  style='mso-element:field-separator'></span><![endif]--><a href="#_Toc36127654"><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>һ</span><span style='mso-no-proof:yes'>.</span></b><span
+ mso-no-proof:yes'>一</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>���߼��</span></b><span style='color:windowtext;display:none;
+ mso-no-proof:yes'>工具简介</span></b><span style='color:windowtext;display:none;
  mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -685,15 +685,15 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:44.0pt right dotted 467.5pt'><a
  href="#_Toc36127655"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>��</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>二</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>��������</span></b><span style='color:windowtext;display:none;
+ mso-no-proof:yes'>工具运行</span></b><span style='color:windowtext;display:none;
  mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -708,15 +708,15 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:44.0pt right dotted 467.5pt'><a
  href="#_Toc36127656"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>��</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>三</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>����ִ������ܽ���</span></b><span style='color:windowtext;
+ mso-no-proof:yes'>批量执行命令功能介绍</span></b><span style='color:windowtext;
  display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -731,16 +731,16 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:44.0pt right dotted 467.5pt'><a
  href="#_Toc36127657"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>��</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>四</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
  style='mso-bidi-font-weight:normal'><span style='mso-no-proof:yes'>Sftp</span></b><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>���ܽ���</span></b><span style='color:windowtext;display:none;
+ mso-no-proof:yes'>功能介绍</span></b><span style='color:windowtext;display:none;
  mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -755,16 +755,16 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:44.0pt right dotted 467.5pt'><a
  href="#_Toc36127658"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>��</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>五</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
  style='mso-bidi-font-weight:normal'><span style='mso-no-proof:yes'>Terminal</span></b><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>���ܽ���</span></b><span style='color:windowtext;display:none;
+ mso-no-proof:yes'>功能介绍</span></b><span style='color:windowtext;display:none;
  mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -779,16 +779,16 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:44.0pt right dotted 467.5pt'><a
  href="#_Toc36127659"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>��</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>六</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
  style='mso-bidi-font-weight:normal'><span style='mso-no-proof:yes'>WebEm</span></b><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>���ܽ���</span></b><span style='color:windowtext;display:none;
+ mso-no-proof:yes'>功能介绍</span></b><span style='color:windowtext;display:none;
  mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -803,16 +803,16 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:44.0pt right dotted 467.5pt'><a
  href="#_Toc36127660"><b style='mso-bidi-font-weight:normal'><i><span
- lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+ lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
  minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
- mso-hansi-theme-font:minor-latin;mso-no-proof:yes'>��</span><span
+ mso-hansi-theme-font:minor-latin;mso-no-proof:yes'>七</span><span
  style='mso-no-proof:yes'>.</span></i></b><span style='color:windowtext;
  mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>�������ع��ܽ���</span></b><span style='color:windowtext;display:
+ mso-no-proof:yes'>批量下载功能介绍</span></b><span style='color:windowtext;display:
  none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -827,15 +827,15 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:44.0pt right dotted 467.5pt'><a
  href="#_Toc36127661"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>��</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>八</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>�����ϴ�����</span></b><span style='color:windowtext;display:none;
+ mso-no-proof:yes'>批量上传功能</span></b><span style='color:windowtext;display:none;
  mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -850,16 +850,16 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:44.0pt right dotted 467.5pt'><a
  href="#_Toc36127662"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>��</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>九</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
  style='mso-bidi-font-weight:normal'><span style='mso-no-proof:yes'>Log</span></b><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>�ļ�˵��</span></b><span style='color:windowtext;display:none;
+ mso-no-proof:yes'>文件说明</span></b><span style='color:windowtext;display:none;
  mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -874,9 +874,9 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:44.0pt right dotted 467.5pt'><a
  href="#_Toc36127663"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>ʮ</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>十</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
  style='mso-bidi-font-weight:normal'><span style='mso-no-proof:yes'>Release
@@ -895,15 +895,15 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:55.0pt right dotted 467.5pt'><a
  href="#_Toc36127664"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>ʮһ</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>十一</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>�������¼ƻ�</span></b><span style='color:windowtext;display:none;
+ mso-no-proof:yes'>后续更新计划</span></b><span style='color:windowtext;display:none;
  mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -918,16 +918,16 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:55.0pt right dotted 467.5pt'><a
  href="#_Toc36127665"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>ʮ��</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>十二</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
  style='mso-bidi-font-weight:normal'><span style='mso-no-proof:yes'>LICENCE</span></b><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>����</span></b><span style='color:windowtext;display:none;
+ mso-no-proof:yes'>申请</span></b><span style='color:windowtext;display:none;
  mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -942,15 +942,15 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
  style='mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='tab-stops:55.0pt right dotted 467.5pt'><a
  href="#_Toc36127666"><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
- style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+ style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
- minor-latin;mso-no-proof:yes'>ʮ��</span><span style='mso-no-proof:yes'>.</span></b><span
+ minor-latin;mso-no-proof:yes'>十三</span><span style='mso-no-proof:yes'>.</span></b><span
  style='color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:
  none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b
- style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:����;
+ style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:等线;
  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
- mso-no-proof:yes'>�ر�����</span></b><span style='color:windowtext;display:none;
+ mso-no-proof:yes'>特别声明</span></b><span style='color:windowtext;display:none;
  mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
  style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
@@ -968,9 +968,9 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
 </w:Sdt>
 
 <p class=MsoNormal align=right style='text-align:right'><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>���ߣ����</span></p>
+minor-latin'>作者：jageli</span></p>
 
 <p class=MsoNormal align=right style='text-align:right'>2020/03/26</p>
 
@@ -1010,99 +1010,99 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'><o:p>&nbsp;<
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127654"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>һ.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
+style='mso-list:Ignore'>一.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
-lang=ZH-CN style='font-family:"���� Light";mso-ascii-font-family:"Calibri Light";
+lang=ZH-CN style='font-family:"等线 Light";mso-ascii-font-family:"Calibri Light";
 mso-ascii-theme-font:major-latin;mso-fareast-theme-font:major-fareast;
 mso-hansi-font-family:"Calibri Light";mso-hansi-theme-font:major-latin;
-color:windowtext;font-style:normal'>���߼��</span></b></span></a><span
+color:windowtext;font-style:normal'>工具简介</span></b></span></a><span
 style='mso-bookmark:_Toc36127654'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:40.5pt;mso-add-space:
-auto'>SRAN AnyConnect<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+auto'>SRAN AnyConnect<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>ʹ��</span>python3<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>使用</span>python3<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>������С���ߣ����</span>SRAN<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>开发的小工具，针对</span>SRAN<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>վ�㣨��ֻ����</span>SRAN<span lang=ZH-CN style='font-family:����;
+minor-latin'>站点（不只限于</span>SRAN<span lang=ZH-CN style='font-family:等线;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>վ�㣬��������֧��</span>SSH<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>站点，对于所有支持</span>SSH<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>Э����豸����ͨ�õģ���ͨ���ײ�</span>SSH<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>协议的设备都是通用的），通过底层</span>SSH<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>Э�飬������½�豸��ִ������������������</span>log<span lang=ZH-CN style='font-family:
-����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>�������ϴ������ļ��ȹ���</span></p>
+minor-latin'>协议，批量登陆设备，执行命令并反馈结果，保存</span>log<span lang=ZH-CN style='font-family:
+等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>，批量上传下载文件等功能</span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:40.5pt;mso-add-space:auto'><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>�����������ӣ�</span><a
+mso-hansi-theme-font:minor-latin'>工具下载连接：</span><a
 href="https://github.com/jageli/SRAN-AnyConnect-Tool">https://github.com/jageli/SRAN-AnyConnect-Tool</a></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127655"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>��.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
+style='mso-list:Ignore'>二.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
-lang=ZH-CN style='font-family:"���� Light";mso-ascii-font-family:"Calibri Light";
+lang=ZH-CN style='font-family:"等线 Light";mso-ascii-font-family:"Calibri Light";
 mso-ascii-theme-font:major-latin;mso-fareast-theme-font:major-fareast;
 mso-hansi-font-family:"Calibri Light";mso-hansi-theme-font:major-latin;
-color:windowtext;font-style:normal'>��������</span></b></span></a><span
+color:windowtext;font-style:normal'>工具运行</span></b></span></a><span
 style='mso-bookmark:_Toc36127655'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>����������ɫ���������谲װ������</span>SRAN
-AnyConnect.exe<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>此软件是绿色软件，无需安装，名称</span>SRAN
+AnyConnect.exe<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��������С</span>31M<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>，软件大小</span>31M<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>���ң�˫���󼴿����У����е�ͬʱ����������ͬĿ¼���Զ����������ļ��У�</span>��<span
-class=SpellE>conf��<span class=GramE>,��Downloads</span>��,��log</span>��.<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>左右，双击后即可运行，运行的同时会在软件的同目录下自动生成三个文件夹：</span>”<span
+class=SpellE>conf”<span class=GramE>,”Downloads</span>”,”log</span>”.<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>����ͼ��ʾ��</span></p>
+mso-hansi-theme-font:minor-latin'>如下图所示：</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'>Conf<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'>Conf<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>Ŀ¼�Զ����˴���ĸ�ʽ</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>目录自定义了窗体的格式</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'>Downloads<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+auto'>Downloads<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>Ŀ¼������ص��ļ�</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>目录存放下载的文件</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'>Log<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'>Log<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>Ŀ¼ÿ���������к�����һ��</span>log<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>目录每次软件运行后会产生一个</span>log<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>�ļ�����¼���еĲ�����־</span></p>
+mso-hansi-theme-font:minor-latin'>文件，记录所有的操作日志</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'>Log<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'>Log<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��Ŀ¼</span><span
-class=SpellE>ENBlog</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>子目录</span><span
+class=SpellE>ENBlog</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��������̵߳�</span>log</p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>，保存多线程的</span>log</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
@@ -1125,84 +1125,84 @@ auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="ͼƬ_x0020_2" o:spid="_x0000_i1060" type="#_x0000_t75"
+</v:shapetype><v:shape id="图片_x0020_2" o:spid="_x0000_i1060" type="#_x0000_t75"
  style='width:128.25pt;height:81.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=171 height=109
-src="README.files/image002.jpg" v:shapes="ͼƬ_x0020_2"><![endif]></span></p>
+src="README.files/image002.jpg" v:shapes="图片_x0020_2"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>���к����������£�</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>运行后主界面如下：</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_22"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_22"
  o:spid="_x0000_i1059" type="#_x0000_t75" style='width:334.5pt;height:188.25pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image003.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=446 height=251
-src="README.files/image004.jpg" v:shapes="ͼƬ_x0020_22"><![endif]></span></p>
+src="README.files/image004.jpg" v:shapes="图片_x0020_22"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'>Ip list<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'>Ip list<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>����д��վ������</span><span
-class=SpellE>ip</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>框填写基站管理面</span><span
+class=SpellE>ip</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��ַ��</span><span
-class=SpellE>cmd</span> list<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>地址；</span><span
+class=SpellE>cmd</span> list<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��������Ҫִ�е��������ִ�ж������ÿ��һ�������ʽ��</span>Response
-Window<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>框输入需要执行的命令，可以执行多条命令，每行一条命令格式；</span>Response
+Window<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>�������н�����ļ�Ŀ¼����д��Ҫ�����ļ��ľ���·��</span>+<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>框反馈运行结果；文件目录框填写需要下载文件的绝对路径</span>+<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>�ļ�����֧��ģ�����أ�</span></p>
+mso-hansi-theme-font:minor-latin'>文件名，支持模糊下载；</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>���ô�����������������豸���û�����������������ļ����Ͷ��̵߳�һЩ���ã�����ͼ��</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>设置窗体里可以设置连接设备的用户名密码和批量下载文件名和多线程的一些设置，如下图：</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_24"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_24"
  o:spid="_x0000_i1058" type="#_x0000_t75" style='width:280.5pt;height:156.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image005.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=374 height=209
-src="README.files/image005.png" v:shapes="ͼƬ_x0020_24"><![endif]></span></p>
+src="README.files/image005.png" v:shapes="图片_x0020_24"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_1"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_1"
  o:spid="_x0000_i1057" type="#_x0000_t75" style='width:198pt;height:159.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image006.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=264 height=213
-src="README.files/image007.jpg" v:shapes="ͼƬ_x0020_1"><![endif]><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_37" o:spid="_x0000_i1056" type="#_x0000_t75" style='width:202.5pt;
+src="README.files/image007.jpg" v:shapes="图片_x0020_1"><![endif]><!--[if gte vml 1]><v:shape
+ id="图片_x0020_37" o:spid="_x0000_i1056" type="#_x0000_t75" style='width:202.5pt;
  height:163.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image008.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=270 height=218
-src="README.files/image009.jpg" v:shapes="ͼƬ_x0020_37"><![endif]></span></p>
+src="README.files/image009.jpg" v:shapes="图片_x0020_37"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_27"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_27"
  o:spid="_x0000_i1055" type="#_x0000_t75" style='width:217.5pt;height:173.25pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image010.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=290 height=231
-src="README.files/image011.jpg" v:shapes="ͼƬ_x0020_27"><![endif]></span></p>
+src="README.files/image011.jpg" v:shapes="图片_x0020_27"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
@@ -1214,344 +1214,344 @@ auto'><o:p>&nbsp;</o:p></p>
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>����������һ���������кţ����������</span>LICENCE<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>帮助窗口有一个本机序列号，这个是申请</span>LICENCE<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>ʹ��</span></p>
+mso-hansi-theme-font:minor-latin'>使用</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_28"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_28"
  o:spid="_x0000_i1054" type="#_x0000_t75" style='width:267pt;height:213pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image012.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=356 height=284
-src="README.files/image013.jpg" v:shapes="ͼƬ_x0020_28"><![endif]></span></p>
+src="README.files/image013.jpg" v:shapes="图片_x0020_28"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>�������а汾��Ϣ</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>关于里有版本信息</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_40"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_40"
  o:spid="_x0000_i1053" type="#_x0000_t75" style='width:137.25pt;height:101.25pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image014.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=183 height=135
-src="README.files/image015.jpg" v:shapes="ͼƬ_x0020_40"><![endif]></span></p>
+src="README.files/image015.jpg" v:shapes="图片_x0020_40"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:40.5pt;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127656"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>��.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
+style='mso-list:Ignore'>三.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
-lang=ZH-CN style='font-family:"���� Light";mso-ascii-font-family:"Calibri Light";
+lang=ZH-CN style='font-family:"等线 Light";mso-ascii-font-family:"Calibri Light";
 mso-ascii-theme-font:major-latin;mso-fareast-theme-font:major-fareast;
 mso-hansi-font-family:"Calibri Light";mso-hansi-theme-font:major-latin;
-color:windowtext;font-style:normal'>����ִ������ܽ���</span></b></span></a><span
+color:windowtext;font-style:normal'>批量执行命令功能介绍</span></b></span></a><span
 style='mso-bookmark:_Toc36127656'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>���</span><span
-class=SpellE>ip</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>填好</span><span
+class=SpellE>ip</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��ַ�б�����Ҫִ�е����ѡ����Ҫִ�нű���</span><span
-class=SpellE>ip</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>地址列表和需要执行的命令，选择需要执行脚本的</span><span
+class=SpellE>ip</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��ַ</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>地址</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_29"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_29"
  o:spid="_x0000_i1052" type="#_x0000_t75" style='width:327pt;height:290.25pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image016.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=436 height=387
-src="README.files/image017.jpg" v:shapes="ͼƬ_x0020_29"><![endif]></span></p>
+src="README.files/image017.jpg" v:shapes="图片_x0020_29"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:40.5pt;mso-add-space:auto'><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
 mso-hansi-theme-font:minor-latin;color:#2E74B5;mso-themecolor:accent5;
-mso-themeshade:191'>��<span class=GramE>������</span>��ť</span><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-themeshade:191'>单<span class=GramE>步运行</span>按钮</span><span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>��ִֻ�е�ǰ���ѡ���</span><span class=SpellE>ip</span><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+minor-latin'>：只执行当前鼠标选择的</span><span class=SpellE>ip</span><span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>��ַ��</span><span class=SpellE>ip</span><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+minor-latin'>地址，</span><span class=SpellE>ip</span><span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>��ַ����ɫ����ɫ���Ǳ�ѡ</span><span class=SpellE>ip</span><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+minor-latin'>地址背景色是深色就是被选</span><span class=SpellE>ip</span><span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>��ִ������Զ�������һ�У���һ�в������У���Ҫ�ٴε����<span class=GramE>������</span>��ť������ʹ�ÿ�ݼ�</span><span
-class=SpellE>Alt+S</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+minor-latin'>，执行完后自动跳到下一行，下一行不会运行，需要再次点击单<span class=GramE>步运行</span>按钮，可以使用快捷键</span><span
+class=SpellE>Alt+S</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>。</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin;color:#2E74B5;mso-themecolor:accent5;mso-themeshade:191'>˳�����а�ť��</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;color:#2E74B5;mso-themecolor:accent5;mso-themeshade:191'>顺序运行按钮：</span><span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>��Ҫִ�нű���</span><span class=SpellE>ip</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>需要执行脚本的</span><span class=SpellE>ip</span><span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>��ַ����ѡ��λ��Ϊ��ʼ�㣬��ʼ���У���һ���豸������ɺ��Զ����еڶ����豸��ͬʱ���ָ�������ڶ����豸��</span><span
-class=SpellE>ip</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-theme-font:minor-latin'>地址，以选择位置为起始点，开始运行，第一个设备运行完成后，自动运行第二个设备，同时鼠标指针跳到第二个设备的</span><span
+class=SpellE>ip</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>������ģʽ֧��������;ֹͣ</span>,
-<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>，此种模式支持运行中途停止</span>,
+<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>���˳�����а�ť����ʼ���к󣬰�ť���ƻ�ĳɡ�ֹͣ�������ֹͣ���Ϳ���ֹͣ����</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>点击顺序运行按钮，开始运行后，按钮名称会改成“停止”，点击停止，就可以停止运行</span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_31"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_31"
  o:spid="_x0000_i1051" type="#_x0000_t75" style='width:339.75pt;height:249.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image018.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=453 height=333
-src="README.files/image019.jpg" v:shapes="ͼƬ_x0020_31"><![endif]></span></p>
+src="README.files/image019.jpg" v:shapes="图片_x0020_31"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_30"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_30"
  o:spid="_x0000_i1050" type="#_x0000_t75" style='width:350.25pt;height:274.5pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image020.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=467 height=366
-src="README.files/image021.jpg" v:shapes="ͼƬ_x0020_30"><![endif]></span></p>
+src="README.files/image021.jpg" v:shapes="图片_x0020_30"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_32"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_32"
  o:spid="_x0000_i1049" type="#_x0000_t75" style='width:360.75pt;height:240.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image022.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=481 height=321
-src="README.files/image023.jpg" v:shapes="ͼƬ_x0020_32"><![endif]></span></p>
+src="README.files/image023.jpg" v:shapes="图片_x0020_32"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:40.5pt;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin;color:#2E74B5;mso-themecolor:accent5;mso-themeshade:191'>���߳����а�ť��</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;color:#2E74B5;mso-themecolor:accent5;mso-themeshade:191'>多线程运行按钮：</span><span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>��Ҫִ�нű���</span><span class=SpellE>ip</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>需要执行脚本的</span><span class=SpellE>ip</span><span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>��ַ����ѡ��λ��Ϊ��ʼ�㣬��ʼ���У����������ý�����ǰ���úã������̵߳�ʱ�����������ͬʱ�������߳�����֧�����й�����ֹͣ���ܣ�������߳����а�ť����ʼ���к󣬰�ť���ƻ�ĳɡ�ֹͣ�������ֹͣ���Ϳ���ֹͣ���У����е����һ���豸ʱ������ֵȴ���ʾ����Ϊ�п����ڲ��̻߳������е��С�������ɺ�</span>log<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>地址，以选择位置为起始点，开始运行，可以在设置界面提前设置好，开启线程的时间间隔，和最多同时开启的线程数。支持运行过程中停止功能，点击多线程运行按钮，开始运行后，按钮名称会改成“停止”，点击停止，就可以停止运行，运行到最后一个设备时，会出现等待提示，因为有可能内部线程还在运行当中。运行完成后</span>log<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>�ᱣ�浽</span>log<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>会保存到</span>log<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>��Ŀ¼</span><span class=SpellE>ENBlog</span><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+minor-latin'>子目录</span><span class=SpellE>ENBlog</span><span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>�£�ÿ��վ��һ��������</span>log<span lang=ZH-CN style='font-family:����;
+minor-latin'>下，每个站点一个单独的</span>log<span lang=ZH-CN style='font-family:等线;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>���˹�����Ҫ����</span>LICENCE<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>，此功能需要申请</span>LICENCE<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>����</span>LICENCE<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>，把</span>LICENCE<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>���ļ�����</span><span class=SpellE>licence.json</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin'>（文件名：</span><span class=SpellE>licence.json</span><span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>���ŵ�������ͬĿ¼�¼��ɣ�ÿ�����Ե�</span><span class=SpellE>licence</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>）放到软件的同目录下即可，每个电脑的</span><span class=SpellE>licence</span><span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>�ǲ�ͬ�ģ���Ҫ��������</span></p>
+mso-hansi-theme-font:minor-latin'>是不同的，需要单独申请</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_33" o:spid="_x0000_i1048" type="#_x0000_t75" style='width:389.25pt;
+ id="图片_x0020_33" o:spid="_x0000_i1048" type="#_x0000_t75" style='width:389.25pt;
  height:270pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image024.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=519 height=360
-src="README.files/image025.jpg" v:shapes="ͼƬ_x0020_33"><![endif]></span></p>
+src="README.files/image025.jpg" v:shapes="图片_x0020_33"><![endif]></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_34" o:spid="_x0000_i1047" type="#_x0000_t75" style='width:306.75pt;
+ id="图片_x0020_34" o:spid="_x0000_i1047" type="#_x0000_t75" style='width:306.75pt;
  height:342pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image026.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=409 height=456
-src="README.files/image026.png" v:shapes="ͼƬ_x0020_34"><![endif]></span></p>
+src="README.files/image026.png" v:shapes="图片_x0020_34"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:40.5pt;mso-add-space:auto'><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;color:red'>ע�ⲻҪִ�г�</span><span
-style='color:red'>ping</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-theme-font:minor-latin;color:red'>注意不要执行长</span><span
+style='color:red'>ping</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;color:red'>������������Ῠס������һ��</span><span
-style='color:red'>bug</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;color:red'>命令，这样软件会卡住，这是一个</span><span
+style='color:red'>bug</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;color:red'>��������ڻ�վ��ִ��</span><span
-style='color:red'>ping</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;color:red'>，如果想在基站里执行</span><span
+style='color:red'>ping</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;color:red'>�����Ҫ<span
-class=GramE>�ӽ���</span>ʱ�䣬��</span><span style='color:red'>ping </span><a
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;color:red'>命令，需要<span
+class=GramE>加结束</span>时间，如</span><span style='color:red'>ping </span><a
 href="http://www.baidu.com"><span style='color:red'>www.baidu.com</span></a><span
 style='color:red'> -c 4<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_35" o:spid="_x0000_i1046" type="#_x0000_t75" style='width:390pt;
+ id="图片_x0020_35" o:spid="_x0000_i1046" type="#_x0000_t75" style='width:390pt;
  height:302.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image027.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=520 height=403
-src="README.files/image028.jpg" v:shapes="ͼƬ_x0020_35"><![endif]></span></p>
+src="README.files/image028.jpg" v:shapes="图片_x0020_35"><![endif]></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><o:p>&nbsp;</o:p></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127657"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>��.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
+style='mso-list:Ignore'>四.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
 style='color:windowtext;font-style:normal'>Sftp</span></b></span></a><span
 style='mso-bookmark:_Toc36127657'><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"等线 Light";
 mso-ascii-font-family:"Calibri Light";mso-ascii-theme-font:major-latin;
 mso-fareast-theme-font:major-fareast;mso-hansi-font-family:"Calibri Light";
-mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>���ܽ���</span></b></span></span><span
+mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>功能介绍</span></b></span></span><span
 style='mso-bookmark:_Toc36127657'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>����ʵ�ֵ�վ�ϴ������ļ����ܣ�ѡ��</span>IP<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>可以实现单站上传下载文件功能，选择</span>IP<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>��ַ�����</span>sftp<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>地址，点击</span>sftp<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>��ť��������һ���������£�</span></p>
+minor-latin'>按钮，会启动一个窗体如下：</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_36"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_36"
  o:spid="_x0000_i1045" type="#_x0000_t75" style='width:391.5pt;height:204pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image029.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=522 height=272
-src="README.files/image030.jpg" v:shapes="ͼƬ_x0020_36"><![endif]></span></p>
+src="README.files/image030.jpg" v:shapes="图片_x0020_36"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>�ϴ��ļ����ܣ�����ʼ�����ļ��У�ѡ��</span>Upload<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>上传文件功能：鼠标邮件点击文件夹，选择</span>Upload<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>��ť�������ļ��Ի���ѡ����Ҫ�ϴ����ļ������ϴ�</span></p>
+mso-hansi-theme-font:minor-latin'>按钮，弹出文件对话框，选择需要上传的文件即可上传</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_10"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_10"
  o:spid="_x0000_i1044" type="#_x0000_t75" style='width:309pt;height:144.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image031.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=412 height=193
-src="README.files/image032.jpg" v:shapes="ͼƬ_x0020_10"><![endif]></span></p>
+src="README.files/image032.jpg" v:shapes="图片_x0020_10"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_11"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_11"
  o:spid="_x0000_i1043" type="#_x0000_t75" style='width:308.25pt;height:182.25pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image033.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=411 height=243
-src="README.files/image034.jpg" v:shapes="ͼƬ_x0020_11"><![endif]></span></p>
+src="README.files/image034.jpg" v:shapes="图片_x0020_11"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>�����ļ����ܣ�����ʼ�������Ҫ���ڵ��ļ���ѡ��</span>Download<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>下载文件功能：鼠标邮件单击需要现在的文件，选择</span>Download<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>��ť���ļ����Զ����ص������ͬĿ¼��</span>Download<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>按钮，文件会自动下载到与程序同目录的</span>Download<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>Ŀ¼��</span></p>
+mso-hansi-theme-font:minor-latin'>目录下</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_12"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_12"
  o:spid="_x0000_i1042" type="#_x0000_t75" style='width:287.25pt;height:141.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image035.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=383 height=189
-src="README.files/image035.png" v:shapes="ͼƬ_x0020_12"><![endif]></span></p>
+src="README.files/image035.png" v:shapes="图片_x0020_12"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:40.5pt;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127658"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>��.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
+style='mso-list:Ignore'>五.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
 style='color:windowtext;font-style:normal'>Terminal</span></b></span></a><span
 style='mso-bookmark:_Toc36127658'><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"等线 Light";
 mso-ascii-font-family:"Calibri Light";mso-ascii-theme-font:major-latin;
 mso-fareast-theme-font:major-fareast;mso-hansi-font-family:"Calibri Light";
-mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>���ܽ���</span></b></span></span><span
+mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>功能介绍</span></b></span></span><span
 style='mso-bookmark:_Toc36127658'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��</span>Terminal<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>打开</span>Terminal<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>���ڣ�ִ�м򵥵����ע��ִ��������Ҫ��</span><span class=GramE>��</span>ctrl+<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>窗口，执行简单的命令，注意执行命令需要用</span><span class=GramE>”</span>ctrl+<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>�س�</span>��<span lang=ZH-CN style='font-family:
-����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>�����˳�ֱ�ӵ���رգ�������</span>exit<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>回车</span>”<span lang=ZH-CN style='font-family:
+等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>键，退出直接点击关闭，不能用</span>exit<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>������һ��</span>bug<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>，这是一个</span>bug<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>�����ڻ��޸���Ч�����£�</span></p>
+minor-latin'>，后期会修复。效果如下：</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
@@ -1563,38 +1563,38 @@ auto'><o:p>&nbsp;</o:p></p>
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_3"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_3"
  o:spid="_x0000_i1041" type="#_x0000_t75" style='width:387.75pt;height:164.25pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image036.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=517 height=219
-src="README.files/image037.jpg" v:shapes="ͼƬ_x0020_3"><![endif]></span></p>
+src="README.files/image037.jpg" v:shapes="图片_x0020_3"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>ע�ⲻҪ�ڻ�վ��ִ�г�</span>ping<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>注意不要在基站里执行长</span>ping<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>������������Ῠס������һ��</span>bug<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>命令，这样软件会卡住，这是一个</span>bug<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>��������ڻ�վ��ִ��</span>ping<span lang=ZH-CN style='font-family:����;
+minor-latin'>，如果想在基站里执行</span>ping<span lang=ZH-CN style='font-family:等线;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>�����Ҫ��<span
-class=GramE>�����</span>ʱ�䣬��</span>ping <a href="http://www.baidu.com">www.baidu.com</a>
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>命令，需要加<span
+class=GramE>如结束</span>时间，如</span>ping <a href="http://www.baidu.com">www.baidu.com</a>
 -c 4</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_14"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_14"
  o:spid="_x0000_i1040" type="#_x0000_t75" style='width:393pt;height:122.25pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image038.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=524 height=163
-src="README.files/image039.jpg" v:shapes="ͼƬ_x0020_14"><![endif]></span></p>
+src="README.files/image039.jpg" v:shapes="图片_x0020_14"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
@@ -1603,105 +1603,105 @@ auto'><o:p>&nbsp;</o:p></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127659"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>��.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]></a><span
+style='mso-list:Ignore'>六.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]></a><span
 class=SpellE><span style='mso-bookmark:_Toc36127659'><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
 style='color:windowtext;font-style:normal'>WebEm</span></b></span></span></span><span
 style='mso-bookmark:_Toc36127659'><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"等线 Light";
 mso-ascii-font-family:"Calibri Light";mso-ascii-theme-font:major-latin;
 mso-fareast-theme-font:major-fareast;mso-hansi-font-family:"Calibri Light";
-mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>���ܽ���</span></b></span></span><span
+mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>功能介绍</span></b></span></span><span
 style='mso-bookmark:_Toc36127659'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>�����ý���<span
-class=GramE>���ùȸ������</span>�İ�װ·��</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>在设置界面<span
+class=GramE>设置谷歌浏览器</span>的安装路径</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_5"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_5"
  o:spid="_x0000_i1039" type="#_x0000_t75" style='width:194.25pt;height:156.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image040.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=259 height=209
-src="README.files/image041.jpg" v:shapes="ͼƬ_x0020_5"><![endif]></span></p>
+src="README.files/image041.jpg" v:shapes="图片_x0020_5"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>ѡ��</span><span
-class=SpellE>ip</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>选择</span><span
+class=SpellE>ip</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��ַ���Զ�<span
-class=GramE>���ùȸ������</span>����½��վ��������Ҫ��ǰ��װ<span class=GramE>�ùȸ������</span>��</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>地址，自动<span
+class=GramE>调用谷歌浏览器</span>，登陆基站。电脑需要提前安装<span class=GramE>好谷歌浏览器</span>。</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_38"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_38"
  o:spid="_x0000_i1038" type="#_x0000_t75" style='width:383.25pt;height:193.5pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image042.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=511 height=258
-src="README.files/image043.jpg" v:shapes="ͼƬ_x0020_38"><![endif]></span></p>
+src="README.files/image043.jpg" v:shapes="图片_x0020_38"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:40.5pt;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127660"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
-mso-bidi-theme-font:major-fareast;color:windowtext'><span style='mso-list:Ignore'>��.<span
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
+mso-bidi-theme-font:major-fareast;color:windowtext'><span style='mso-list:Ignore'>七.<span
 style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
-lang=ZH-CN style='font-family:"���� Light";mso-ascii-font-family:"Calibri Light";
+lang=ZH-CN style='font-family:"等线 Light";mso-ascii-font-family:"Calibri Light";
 mso-ascii-theme-font:major-latin;mso-fareast-theme-font:major-fareast;
 mso-hansi-font-family:"Calibri Light";mso-hansi-theme-font:major-latin;
-color:windowtext;font-style:normal'>�������ع��ܽ���</span></b></span></a><span
+color:windowtext;font-style:normal'>批量下载功能介绍</span></b></span></a><span
 style='mso-bookmark:_Toc36127660'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:40.5pt;mso-add-space:
 auto'><span class=SpellE>Sdownload</span><span lang=ZH-CN style='font-family:
-����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��ť�����߳��������ع��ܡ�û��</span>LICENCE<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>按钮，单线程批量下载功能。没有</span>LICENCE<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>���ơ�</span></p>
+mso-hansi-theme-font:minor-latin'>限制。</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><span class=SpellE>Mdownload</span><span lang=ZH-CN style='font-family:
-����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��ť�����߳�ͬ�����ع��ܡ���Ҫ�����ÿ�����ǰ���úÿ����̵߳ļ��ʱ������ͬʱ�߳�������Ҫ����</span>LICENCE<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>按钮，多线程同步下载功能。需要在设置框中提前设置好开启线程的间隔时间和最大同时线程数。需要申请</span>LICENCE<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>��</span></p>
+mso-hansi-theme-font:minor-latin'>。</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��</span><span
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>在</span><span
 class=SpellE>ip</span><span style='mso-spacerun:yes'>&nbsp; </span>list<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>���������Ҫ�������豸</span><span class=SpellE>ip</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>框中填好需要操作的设备</span><span class=SpellE>ip</span><span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>��ַ�б������ļ�Ŀ¼������д��Ҫ���ص��ļ���·����ע���ʽ������·��</span>+<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>地址列表，在文件目录框中填写需要下载的文件和路径，注意格式：绝对路径</span>+<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>�ļ�����֧����ʱֹͣ����</span></p>
+mso-hansi-theme-font:minor-latin'>文件名，支持随时停止功能</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_4"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_4"
  o:spid="_x0000_i1037" type="#_x0000_t75" style='width:414.75pt;height:279pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image044.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=553 height=372
-src="README.files/image045.jpg" v:shapes="ͼƬ_x0020_4"><![endif]></span></p>
+src="README.files/image045.jpg" v:shapes="图片_x0020_4"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
@@ -1710,17 +1710,17 @@ auto'><o:p>&nbsp;</o:p></p>
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>֧�ֶ��豸�����ļ�����</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>支持多设备，多文件下载</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_7"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_7"
  o:spid="_x0000_i1036" type="#_x0000_t75" style='width:351pt;height:216.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image046.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=468 height=289
-src="README.files/image047.jpg" v:shapes="ͼƬ_x0020_7"><![endif]></span></p>
+src="README.files/image047.jpg" v:shapes="图片_x0020_7"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
@@ -1729,84 +1729,84 @@ auto'><o:p>&nbsp;</o:p></p>
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>֧���ļ�ģ�����أ������ļ���������</span>*<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>支持文件模糊下载，即，文件名可以用</span>*<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>ͨ�����Ĭ������ƥ�䵽�������ļ�</span></p>
+mso-hansi-theme-font:minor-latin'>通配符，默认下载匹配到的所有文件</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_8"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_8"
  o:spid="_x0000_i1035" type="#_x0000_t75" style='width:366pt;height:303.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image048.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=488 height=405
-src="README.files/image049.jpg" v:shapes="ͼƬ_x0020_8"><![endif]></span></p>
+src="README.files/image049.jpg" v:shapes="图片_x0020_8"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>֧�������ļ������ض��幦�ܣ����ڶ��豸ͬһ���ļ�����ͬ�����Ƶ��ļ������ص����ص�</span>Downloads<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>支持下载文件名的重定义功能：对于多设备同一个文件夹下同样名称的文件，下载到本地的</span>Downloads<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>Ŀ¼����������������ļ����Ḳ�������ص��ļ�����������������������ļ���ʱ�򣬱����ض����ļ��������豸</span><span
-class=SpellE>ip</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+mso-hansi-theme-font:minor-latin'>目录，如果不重新命名文件，会覆盖已下载的文件，基于这种情况，在下载文件的时候，必须重定义文件名，把设备</span><span
+class=SpellE>ip</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��ַ��Ϊ��־���ӵ����ص��ļ����������Ͳ������𸲸ǡ�</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>地址作为标志，加到下载的文件名后，这样就不会引起覆盖。</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>ʹ��ǰ��Ҫ������<span
-class=GramE>�����</span>���ã�</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>使用前需要在设置<span
+class=GramE>框进行</span>设置：</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_39"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_39"
  o:spid="_x0000_i1034" type="#_x0000_t75" style='width:348.75pt;height:159pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image050.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=465 height=212
-src="README.files/image050.png" v:shapes="ͼƬ_x0020_39"><![endif]></span></p>
+src="README.files/image050.png" v:shapes="图片_x0020_39"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;
+auto'><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>Ч�����£�</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>效果如下：</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_13"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_13"
  o:spid="_x0000_i1033" type="#_x0000_t75" style='width:368.25pt;height:251.25pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image051.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=491 height=335
-src="README.files/image052.jpg" v:shapes="ͼƬ_x0020_13"><![endif]></span></p>
+src="README.files/image052.jpg" v:shapes="图片_x0020_13"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
-auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ͼƬ_x0020_15"
+auto'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_15"
  o:spid="_x0000_i1032" type="#_x0000_t75" style='width:203.25pt;height:135.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image053.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=271 height=181
-src="README.files/image054.jpg" v:shapes="ͼƬ_x0020_15"><![endif]></span></p>
+src="README.files/image054.jpg" v:shapes="图片_x0020_15"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:40.5pt;mso-add-space:
 auto'><o:p>&nbsp;</o:p></p>
@@ -1818,120 +1818,120 @@ auto'><o:p>&nbsp;</o:p></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127661"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>��.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
+style='mso-list:Ignore'>八.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
-lang=ZH-CN style='font-family:"���� Light";mso-ascii-font-family:"Calibri Light";
+lang=ZH-CN style='font-family:"等线 Light";mso-ascii-font-family:"Calibri Light";
 mso-ascii-theme-font:major-latin;mso-fareast-theme-font:major-fareast;
 mso-hansi-font-family:"Calibri Light";mso-hansi-theme-font:major-latin;
-color:windowtext;font-style:normal'>�����ϴ�����</span></b></span></a><span
+color:windowtext;font-style:normal'>批量上传功能</span></b></span></a><span
 style='mso-bookmark:_Toc36127661'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_6" o:spid="_x0000_i1031" type="#_x0000_t75" style='width:407.25pt;
+ id="图片_x0020_6" o:spid="_x0000_i1031" type="#_x0000_t75" style='width:407.25pt;
  height:116.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image055.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=543 height=155
-src="README.files/image056.jpg" v:shapes="ͼƬ_x0020_6"><![endif]></span></p>
+src="README.files/image056.jpg" v:shapes="图片_x0020_6"><![endif]></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span class=SpellE>Supload</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>����˳���ϴ���</span><span class=SpellE>Mupload</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>批量顺序上传；</span><span class=SpellE>Mupload</span><span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>���̲߳����ϴ����˹�����Ҫ</span>LICENCE<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>多线程并发上传（此功能需要</span>LICENCE<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>��</span></p>
+minor-latin'>）</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_17" o:spid="_x0000_i1030" type="#_x0000_t75" style='width:281.25pt;
+ id="图片_x0020_17" o:spid="_x0000_i1030" type="#_x0000_t75" style='width:281.25pt;
  height:140.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image057.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=375 height=187
-src="README.files/image058.jpg" v:shapes="ͼƬ_x0020_17"><![endif]></span></p>
+src="README.files/image058.jpg" v:shapes="图片_x0020_17"><![endif]></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>���</span>IP<span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+minor-latin'>填好</span>IP<span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��ַ��Զ��Ŀ¼��ѡ�񱾵���Ҫ�ϴ����ļ���֧�ֶ�ѡ��</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>地址和远端目录，选择本地需要上传的文件（支持多选）</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_18" o:spid="_x0000_i1029" type="#_x0000_t75" style='width:210pt;
+ id="图片_x0020_18" o:spid="_x0000_i1029" type="#_x0000_t75" style='width:210pt;
  height:138pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image059.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=280 height=184
-src="README.files/image060.jpg" v:shapes="ͼƬ_x0020_18"><![endif]></span></p>
+src="README.files/image060.jpg" v:shapes="图片_x0020_18"><![endif]></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>Ĭ���ϴ��ļ��ȱ���ͬ���ļ��������Զ���ļ�����ͬ�����ļ���������</span><span class=SpellE>xxx.bak</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin'>默认上传文件先备份同名文件，即如果远端文件夹有同名的文件，先生成</span><span class=SpellE>xxx.bak</span><span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>�����ļ������ϴ����ص��ļ������������ý���ȡ���˹��ܡ�</span></p>
+mso-hansi-theme-font:minor-latin'>备份文件，再上传本地的文件，可以在设置界面取消此功能。</span></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127662"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>��.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
+style='mso-list:Ignore'>九.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
 style='color:windowtext;font-style:normal'>Log</span></b></span></a><span
 style='mso-bookmark:_Toc36127662'><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"等线 Light";
 mso-ascii-font-family:"Calibri Light";mso-ascii-theme-font:major-latin;
 mso-fareast-theme-font:major-fareast;mso-hansi-font-family:"Calibri Light";
-mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>�ļ�˵��</span></b></span></span><span
+mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>文件说明</span></b></span></span><span
 style='mso-bookmark:_Toc36127662'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>��������ʱ���Զ�����һ��</span>log<span lang=ZH-CN style='font-family:����;
+minor-latin'>软件运行时会自动产生一个</span>log<span lang=ZH-CN style='font-family:等线;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>Ŀ¼��������ʱ�����������������е�������־�����������߳�ִ������Ͷ��߳����أ���Щ</span>log<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>目录，以运行时间命名，保存运行中的所有日志（不包括多线程执行命令和多线程下载，这些</span>log<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>������Ŀ¼��</span><span class=SpellE>ENBlog</span><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+mso-hansi-theme-font:minor-latin'>会在子目录下</span><span class=SpellE>ENBlog</span><span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>��ÿ��վ��һ��������</span>log<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>，每个站点一个单独的</span>log<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>�����ڻ��Ż�</span><span class=SpellE>Viewlog</span><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+minor-latin'>，后期会优化</span><span class=SpellE>Viewlog</span><span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>���ܣ������⣬����һ��</span>Logon<span lang=ZH-CN style='font-family:����;
+minor-latin'>功能）。此外，还有一个</span>Logon<span lang=ZH-CN style='font-family:等线;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��</span><span
-class=SpellE>Viewlog</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>和</span><span
+class=SpellE>Viewlog</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>��ť�����Լ�¼�ʹ򿪵�ǰ��Ҫ��</span>log</p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>按钮，可以记录和打开当前需要的</span>log</p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_23" o:spid="_x0000_i1028" type="#_x0000_t75" style='width:340.5pt;
+ id="图片_x0020_23" o:spid="_x0000_i1028" type="#_x0000_t75" style='width:340.5pt;
  height:202.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image061.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=454 height=270
-src="README.files/image062.jpg" v:shapes="ͼƬ_x0020_23"><![endif]></span></p>
+src="README.files/image062.jpg" v:shapes="图片_x0020_23"><![endif]></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_25" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:339pt;
+ id="图片_x0020_25" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:339pt;
  height:173.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image063.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=452 height=231
-src="README.files/image064.jpg" v:shapes="ͼƬ_x0020_25"><![endif]></span></p>
+src="README.files/image064.jpg" v:shapes="图片_x0020_25"><![endif]></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><o:p>&nbsp;</o:p></p>
 
@@ -1941,31 +1941,31 @@ normal'><o:p>&nbsp;</o:p></span></b></span></h2>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127663"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>ʮ.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
+style='mso-list:Ignore'>十.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b></span><![endif]><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
 style='color:windowtext;font-style:normal'>Release notes</span></b></span></a><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
 style='color:windowtext;font-style:normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_20" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:246.75pt;
+ id="图片_x0020_20" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:246.75pt;
  height:192pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image065.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=329 height=256
-src="README.files/image066.jpg" v:shapes="ͼƬ_x0020_20"><![endif]></span></p>
+src="README.files/image066.jpg" v:shapes="图片_x0020_20"><![endif]></span></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127664"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>ʮһ.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>十一.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span></b></span><![endif]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"等线 Light";
 mso-ascii-font-family:"Calibri Light";mso-ascii-theme-font:major-latin;
 mso-fareast-theme-font:major-fareast;mso-hansi-font-family:"Calibri Light";
-mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>�������¼ƻ�</span></b></span></a><span
+mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>后续更新计划</span></b></span></a><span
 style='mso-bookmark:_Toc36127664'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
@@ -1975,97 +1975,97 @@ auto;text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span
 style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=ZH-CN style='font-family:����;
+</span></span></span><![endif]><span lang=ZH-CN style='font-family:等线;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>����</span>80/443<span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>添加</span>80/443<span
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>�˿�֧�֣��̳в������湦�ܣ�ʵ���Զ�������</span></p>
+mso-hansi-theme-font:minor-latin'>端口支持，继承部分爬虫功能，实现自动化操作</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:58.5pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span
 style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=ZH-CN style='font-family:����;
+</span></span></span><![endif]><span lang=ZH-CN style='font-family:等线;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>�Ż�</span><span
-class=SpellE>Viewlog</span><span lang=ZH-CN style='font-family:����;mso-ascii-font-family:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>优化</span><span
+class=SpellE>Viewlog</span><span lang=ZH-CN style='font-family:等线;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>�򣬸�ʹ���߸��õ�����</span></p>
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>框，给使用者更好的体验</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:58.5pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span
 style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=ZH-CN style='font-family:����;
+</span></span></span><![endif]><span lang=ZH-CN style='font-family:等线;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>���δ֪ԭ���</span>bug</p>
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>解决未知原因的</span>bug</p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:58.5pt;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127665"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>ʮ��.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>十二.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span></b></span><![endif]><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'>LICENCE</span></b></span></a><span style='mso-bookmark:_Toc36127665'><span
 class=MsoSubtleEmphasis><b style='mso-bidi-font-weight:normal'><span
-lang=ZH-CN style='font-family:"���� Light";mso-ascii-font-family:"Calibri Light";
+lang=ZH-CN style='font-family:"等线 Light";mso-ascii-font-family:"Calibri Light";
 mso-ascii-theme-font:major-latin;mso-fareast-theme-font:major-fareast;
 mso-hansi-font-family:"Calibri Light";mso-hansi-theme-font:major-latin;
-color:windowtext;font-style:normal'>����</span></b></span></span><span
+color:windowtext;font-style:normal'>申请</span></b></span></span><span
 style='mso-bookmark:_Toc36127665'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>�����Զ��߳����нű��Ͷ��߳������ļ�����</span>LICENCE<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+minor-latin'>软件对多线程运行脚本和多线程下载文件做了</span>LICENCE<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>����</span></p>
+minor-latin'>限制</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="ͼƬ_x0020_21" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:312pt;
+ id="图片_x0020_21" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:312pt;
  height:97.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README.files/image067.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=416 height=130
-src="README.files/image068.jpg" v:shapes="ͼƬ_x0020_21"><![endif]></span></p>
+src="README.files/image068.jpg" v:shapes="图片_x0020_21"><![endif]></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>����Ҫ�˹��ܣ���Ҫ�ڰ�������ȡ���������кţ������ҡ����ṩһ��</span>LICENCE<span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+minor-latin'>如需要此功能，需要在帮助栏获取本机的序列号，发给我。我提供一个</span>LICENCE<span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>�ļ���</span><span class=SpellE>licence.json</span><span lang=ZH-CN
-style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+minor-latin'>文件（</span><span class=SpellE>licence.json</span><span lang=ZH-CN
+style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>���Ѵ��ļ�����������ͬĿ¼�¼�������</span></p>
+minor-latin'>）把此文件拷贝到软件同目录下即可运行</span></p>
 
 <h2 style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3'><a
 name="_Toc36127666"><![if !supportLists]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:"等线 Light";
 mso-bidi-theme-font:major-fareast;color:windowtext;font-style:normal'><span
-style='mso-list:Ignore'>ʮ��.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>十三.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span></b></span><![endif]><span class=MsoSubtleEmphasis><b
-style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"���� Light";
+style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:"等线 Light";
 mso-ascii-font-family:"Calibri Light";mso-ascii-theme-font:major-latin;
 mso-fareast-theme-font:major-fareast;mso-hansi-font-family:"Calibri Light";
-mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>�ر�����</span></b></span></a><span
+mso-hansi-theme-font:major-latin;color:windowtext;font-style:normal'>特别声明</span></b></span></a><span
 style='mso-bookmark:_Toc36127666'></span><span class=MsoSubtleEmphasis><b
 style='mso-bidi-font-weight:normal'><span style='color:windowtext;font-style:
 normal'><o:p></o:p></span></b></span></h2>
 
 <p class=MsoListParagraph style='margin-left:40.5pt;mso-add-space:auto'><span
-lang=ZH-CN style='font-family:����;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+lang=ZH-CN style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin'>���������ڸ��˿�����Ʒ������ʹ�ù����У����ڲ���������������ִ������Σ���豸����������ش������¹ʣ������߱��˲��е��κ�����</span></p>
+mso-hansi-theme-font:minor-latin'>此软件属于个人开发产品，如在使用过程中，由于操作不当，或批量执行严重危害设备的命令，引起重大网络事故，开发者本人不承担任何责任</span></p>
 
 </div>
 
