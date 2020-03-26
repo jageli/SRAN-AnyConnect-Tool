@@ -970,7 +970,7 @@ style='font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%'>-v5.3<o:p></
 <p class=MsoNormal align=right style='text-align:right'><span lang=ZH-CN
 style='font-family:等线;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>作者：jageli</span></p>
+minor-latin'>jageli</span></p>
 
 <p class=MsoNormal align=right style='text-align:right'>2020/03/26</p>
 
