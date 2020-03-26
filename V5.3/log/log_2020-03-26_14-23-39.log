@@ -1,0 +1,31 @@
+login success to 192.168.227.128
+
+# ls
+anaconda-ks.cfg
+a.out
+creat_conf.py
+GitHubDesktopSetup.exe
+lean_Django
+pycharm-community-2019.3.3
+python
+sqlite-autoconf-3270200
+test
+test1
+webtest
+
+login success to 192.168.227.128
+
+# ls -l
+total 89432
+-rw-------. 1 root  root      1260 Jan  9 06:58 anaconda-ks.cfg
+-rw-r--r--. 1 root  root       656 Mar 16 18:32 a.out
+-rw-r--r--. 1 root  root      2152 Mar 16 17:24 creat_conf.py
+-rw-r--r--. 1 root  root  91559896 Mar 16 06:32 GitHubDesktopSetup.exe
+drwxr-xr-x. 4 root  root        43 Mar  3 21:00 lean_Django
+drwxr-xr-x. 9 root  root       165 Jan 17 14:49 pycharm-community-2019.3.3
+drwxr-xr-x. 5 root  root        71 Feb 20 11:57 python
+drwxr-xr-x. 5 lijie lijie     4096 Feb 19 09:46 sqlite-autoconf-3270200
+drwxr-xr-x. 2 root  root       119 Mar 20 19:23 test
+drwxr-xr-x. 2 root  root        78 Mar 19 18:30 test1
+drwxr-xr-x. 2 root  root        62 Feb 13 19:47 webtest
+
